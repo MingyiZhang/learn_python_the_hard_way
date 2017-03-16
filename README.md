@@ -4,3 +4,4 @@ Exercises following Learn Python the Hard Way
 My python exercises
 
 Following the book "Learn Python the Hard Way" by Zed A. Shaw
+https://learnpythonthehardway.org/book/
